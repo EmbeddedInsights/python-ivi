@@ -66,6 +66,8 @@ from .tektronixMDO3052 import tektronixMDO3052
 from .tektronixMDO3054 import tektronixMDO3054
 from .tektronixMDO3102 import tektronixMDO3102
 from .tektronixMDO3104 import tektronixMDO3104
+# TDS1000
+from .tektronixTDS1000 import tektronixTDS1000
 
 # Function Generators
 from .tektronixAWG2005 import tektronixAWG2005
